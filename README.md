@@ -8,13 +8,13 @@
 
 ---
 
-🌟 I'm currently working as an **Intern at Usome**.
+🌟 I'm currently working **at Usome**.
 
 ---
 
 ### 🔍 About Me
 
-- 💼 Working on: [QuickMart POS System](https://aaksmartpos.onrender.com)
+- 💼 Worked on: [QuickMart POS System](https://aaksmartpos.onrender.com)
 - 📚 Studying: Bachelor of Computer Engineering at ISMT College
 - 💬 Ask me about: **C#**, **ASP.NET Core**, **HTML/CSS**, **Python**, **Umbraco CMS**
 - ✍️ I also write poetry and love exploring creative tech ideas
