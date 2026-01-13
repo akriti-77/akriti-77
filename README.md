@@ -18,7 +18,7 @@
 - 📚 Studying: Bachelor of Computer Engineering at ISMT College
 - 💬 Ask me about: **C#**, **ASP.NET Core**, **HTML/CSS**, **Python**, **Umbraco CMS**
 - ✍️ I also write poetry and love exploring creative tech ideas
-- 📫 Email: **aakritishrestha.dev@gmail.com**
+- 📫 Email: **akriti07stha@gmail.com**
 
 ---
 
